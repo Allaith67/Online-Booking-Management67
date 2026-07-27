@@ -38,5 +38,3 @@ Welcome to **Chisfis**, a responsive Nextjs template theme tailored for Online b
 A big shoutout to all the libraries, plugins, and assets that made this project possible.
 
 ---
-
-Crafted with ❤️ by [Hamed Hasan](https://github.com/Hamed-Hasan). Connect with me on [LinkedIn](https://www.linkedin.com/in/hamed-hasan).
